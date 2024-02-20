@@ -1,0 +1,18 @@
+Compare and contrast absolute links vs. relative links. (3 points)
+Absolute link are when the address are complete, including the prefix which tells the browser which protocol to use. Relative links are when only part of the address needed to get to the destination is used. It contains only the destination page's filename.
+
+What is the other name for a link? ( 1 point )
+Hyperlink
+
+Many links appear as __underlined text___, but you can also create links that appear as __images____ or ____other graphical objexts____. (1 point)
+
+By default, links appear in __blue____ font with __an underline____. ( 1 point )
+
+After you click a text hyperlink, its default formatting changes to _scarlet__ font. ( 1 point )
+
+What is the file name you are asking for when you request the address: https://www.kybz.info/index.html? ( 1 point )
+index.html
+
+What are the two tags you need to create a link that moves you to the top of the same page? Just provide the html. This can be done with two html tags. ( 1 point )
+<a name="top"></a>
+<a href="#top">Return to top of page</a>
